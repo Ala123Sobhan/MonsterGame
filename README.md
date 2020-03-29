@@ -1,2 +1,2 @@
-# MonsterGame
-Its a text-based java Monster Game.
+# TreasureHunt 
+Its a text-based java TreasureHunt Game.
